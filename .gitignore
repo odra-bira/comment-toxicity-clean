@@ -1,3 +1,9 @@
 /.ipynb_checkpoints
 /flagged
 /toxic
+*.csv
+*.h5
+*.zip
+*.dylib
+commenttoxicity/
+__pycache__/

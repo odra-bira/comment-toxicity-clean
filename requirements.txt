@@ -1,0 +1,7 @@
+# Direct dependencies; not a reproducibility lock.
+tensorflow
+numpy
+pandas
+matplotlib
+gradio
+jupyter

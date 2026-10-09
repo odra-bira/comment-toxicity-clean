@@ -7,3 +7,18 @@
 *.dylib
 commenttoxicity/
 __pycache__/
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+!.env.example
+.gradio/
+.virtual_documents/
+data/
+*.keras
